@@ -84,7 +84,7 @@ const SocialMediaLinks = () => {
           <img src={tiktokIcon} alt="TikTok" />
         </a> */}
         <a
-          href="https://wa.me/947681335736?text=Hello!%20I'm%20interested%20in%20your%20products%20at%20Manhara%20Book%20Shop.%20Could%20you%20please%20share%20more%20details%3F"
+          href="https://wa.me/94768135736?text=Hello!%20I'm%20interested%20in%20your%20products%20at%20Manhara%20Book%20Shop.%20Could%20you%20please%20share%20more%20details%3F"
           target="_blank"
           rel="noopener noreferrer"
         >
